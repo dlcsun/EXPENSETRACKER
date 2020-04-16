@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Proj_41</string>
+    <string name="welcome_name">Welcome To Expense Tracker</string>
+    <string name="creator_name_1">Jesus Banuelos</string>
+    <string name="creator_name_2">Dorian Leu</string>
+    <string name="creator_name_3">Emil Shigin</string>
+    <string name="creator_name_4">Elvis Ventura</string>
+</resources>
